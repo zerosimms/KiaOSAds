@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project> 
+  <section if="html5">   
+  	<dependency name="kaiads" path="dependencies/kaiads.min.js"/>  	
+  	<dependency name="ads" path="dependencies/gameAds.js"/>
+  </section>
+</project>

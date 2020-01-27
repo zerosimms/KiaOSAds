@@ -1,0 +1,6 @@
+name=Kai Os Ads
+description=Display Ads for Kai
+author=Ben Simms
+website=http://www.bensimms.co.uk
+version=1.0
+compatibility=html5

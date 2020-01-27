@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<palette>
+   <block tag="displayAd" spec="Publisher ID: %0, App Name: %1, Test Flag(0/1): %2" code="StencylKai.getAd(~,~,~);" type="action" color="green" returns="void">
+    <fields>
+      <text order="0"></text>
+      <text order="1"></text>
+      <number order="2"></number>
+    </fields>
+  </block>
+</palette>
